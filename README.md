@@ -2,31 +2,28 @@
 This project is a rule-based chatbot built in Python that uses regular expressions to match user keywords and provide predefined responses. It supports case-insensitive input, includes a default reply for unknown queries, and runs through an interactive command-line interface until the user enters **"bye"**.
 
 
-# 🤖 Rule-Based Chatbot in Python
+## Rule-Based Chatbot in Python
 
 A simple and interactive **rule-based chatbot** built using Python that responds to user queries by identifying keywords with regular expressions and returning predefined responses. This project demonstrates basic Natural Language Processing (NLP) concepts, pattern matching, and conversational logic.
 
----
 
-## 📌 Features
+## Features
 
-- 💬 Interactive command-line chatbot interface
-- 🔍 Keyword-based response detection using Regular Expressions (`re`)
-- 🔤 Case-insensitive user input processing
-- ⚡ Instant predefined responses for common queries
-- 🛡️ Default fallback response for unknown inputs
-- 🚪 Exit functionality using the `"bye"` command
+-  Interactive command-line chatbot interface
+-  Keyword-based response detection using Regular Expressions (`re`)
+-  Case-insensitive user input processing
+-  Instant predefined responses for common queries
+-  Default fallback response for unknown inputs
+-  Exit functionality using the `"bye"` command
 
----
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Regular Expression (`re`) Module**
 
----
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Rule-Based-Chatbot/
@@ -36,9 +33,8 @@ Rule-Based-Chatbot/
 └── requirements.txt  # Project dependencies (if required)
 ```
 
----
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -48,14 +44,13 @@ Make sure Python is installed on your system:
 python --version
 ```
 
----
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rule-based-chatbot.git
+git clone https://github.com/Abhinav-cloud482/rule-based-chatbot.git
 ```
 
 2. Navigate to the project directory:
@@ -70,9 +65,8 @@ cd rule-based-chatbot
 python chatbot.py
 ```
 
----
 
-## 💻 Usage
+## Usage
 
 Start chatting with the bot through the terminal:
 
@@ -89,9 +83,8 @@ You: bye
 Chatbot: Goodbye! Have a great day!
 ```
 
----
 
-## 🧠 How It Works
+## How It Works
 
 1. User enters a message through the command line.
 2. The input is converted to lowercase for consistent matching.
@@ -99,9 +92,8 @@ Chatbot: Goodbye! Have a great day!
 4. The chatbot returns the corresponding response.
 5. If no keyword matches, a default response is displayed.
 
----
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add machine learning-based response generation
 - Integrate Natural Language Processing (NLP) libraries
@@ -109,15 +101,13 @@ Chatbot: Goodbye! Have a great day!
 - Add voice input and speech output support
 - Develop a web-based chatbot interface
 
----
 
-## 👨‍💻 Author
-
-**Your Name**  
-GitHub: [Your GitHub Profile](https://github.com/your-username)
-
----
-
-## 📜 License
+## License
 
 This project is open-source and available under the **MIT License**.
+
+
+## Author
+
+**Abhinav Dixit**  
+GitHub: [Your GitHub Profile](https://github.com/Abhinav-cloud482)
