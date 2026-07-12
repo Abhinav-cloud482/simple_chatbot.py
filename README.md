@@ -1,4 +1,4 @@
-# simple_chatbot.py
+# simple_chatbot
 This project is a rule-based chatbot built in Python that uses regular expressions to match user keywords and provide predefined responses. It supports case-insensitive input, includes a default reply for unknown queries, and runs through an interactive command-line interface until the user enters **"bye"**.
 
 
@@ -110,4 +110,4 @@ This project is open-source and available under the **MIT License**.
 ## Author
 
 **Abhinav Dixit**  
-GitHub: [Your GitHub Profile](https://github.com/Abhinav-cloud482)
+GitHub: [Abhinav Dixit](https://github.com/Abhinav-cloud482)
